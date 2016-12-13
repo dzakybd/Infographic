@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Infographic</string>
+    <string name="drawer1">Lastest</string>
+    <string name="drawer2">Favorite</string>
+    <string name="drawer3">Categories</string>
+    <string name="subdrawer4">Business</string>
+    <string name="subdrawer5">Food</string>
+    <string name="subdrawer6">Education</string>
+    <string name="lastdrawer">Credit</string>
+    <string name="banner_ad_unit_id">ca-app-pub-8888526906409449/8682243612</string>
+    <string name="sharemsg">Interesting? you can download at playstore</string>
+</resources>
